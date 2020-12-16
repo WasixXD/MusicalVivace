@@ -1,0 +1,34 @@
+.container-fluid h1, h2 {
+    color: white;
+    font-size: 3rem;
+    padding-bottom: 3rem;
+}
+
+.container-fluid .fotos .container-fluid .row .col img{
+    margin: .4em;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+.b {
+    width: 11.75rem;
+}
+
+.c {
+    width:9.6rem;
+}
+  
+.container-fluid .fotos .container .row .modal  {
+    border: none;
+}
+
+.container-fluid .card-body {
+    color: white;
+    padding-top: 5rem;
+}
+
+
+
+

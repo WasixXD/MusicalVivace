@@ -1,0 +1,40 @@
+
+.container-fluid {
+    padding-bottom: 3rem;
+}
+
+.container-fluid .container  .lead {
+    padding-top: 2rem;
+    color: white;
+}
+
+.container-fluid .container h1 {
+    font-size: 2.4rem;
+    padding-bottom: .5rem;
+    color: white;
+}
+
+.container-fluid .container .media .arr {
+    width: 20rem;
+    height: 20rem;
+    margin-right: 1.3rem;
+}
+
+
+
+.musicas .container-fluid .media img {
+    width: 82vw;
+    
+}
+
+.musicas .container-fluid h1 {
+    font-size: 2.4rem;
+    padding-bottom: .5rem;
+    color: white;
+}
+
+
+footer p {
+    font-weight: 100rem;
+}
+

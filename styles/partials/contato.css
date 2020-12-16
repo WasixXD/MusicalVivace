@@ -1,0 +1,20 @@
+body {
+    color:white;
+}
+
+.container p {
+    color: white;
+}
+
+.container {
+    padding-bottom: 2rem;
+}
+
+.container-fluid h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+.container-fluid .container form .form-row {
+    padding-bottom: 2rem;
+}

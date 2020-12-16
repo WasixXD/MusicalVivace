@@ -1,0 +1,139 @@
+:root {
+    --cor-preto:#000000; 
+    --cor-letra:#ecae3d;
+    
+}
+
+* {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+    
+    
+}
+
+body {
+    background-color: black;
+    width: 100vw;
+}
+
+
+
+nav {
+    background-color: var(--cor-preto);
+    align-items: center;
+    justify-content: center;
+}
+
+nav a img {
+    width: 15rem;
+    height: 15rem;
+    margin-left: 2rem;
+}
+
+
+
+nav .navbar-title {
+    color: #fff;
+    font-size: 1.5rem;
+    
+}
+nav .navbar-title:hover {
+    transition: 0.5s;
+    color:var(--cor-letra);
+    text-decoration: none;
+}
+nav .collapse .navbar-nav .nav-item a {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    margin-left: 2rem;
+
+}
+
+nav .collapse .navbar-nav .nav-item a:first-child {
+    margin-left: 4rem;
+}
+
+
+
+nav .collapse .navbar-nav .nav-item a:hover {
+    transition: 0.5s;
+    color: var(--cor-letra);
+}
+
+/*--#232122
+#ecae3d --*/
+
+
+footer .container-fluid {
+    display: flex;
+    width: 100vw;
+    height: 20rem;
+    
+    background-color: var(--cor-preto);
+    
+}
+
+
+footer .container-fluid .row .col {
+    width: 50vw;
+    height: 50vh;
+    
+}
+
+footer .container-fluid .row .col ul {
+    list-style-type: none;
+    margin-top: 3rem;
+}
+
+footer .container-fluid .row .col ul li{
+    margin-top: 0.6rem; 
+}
+footer .container-fluid .row .col ul li p {
+    color: #fff;
+    font-size: 1em;
+    padding: .4rem;
+    
+
+}
+footer .container-fluid .row .col ul li p i {
+    margin: 0.3rem;
+}
+
+footer .container-fluid .row .col a {
+    
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    margin: 1rem;
+    margin-left: 3rem;
+}
+
+footer .container-fluid .row .col ul li #instagram:hover{
+    color: #d6249f ;
+    transition: 0.2s;
+    
+    font-size:3.5rem; /* change this to change the size*/
+}
+footer .container-fluid .row .col ul li #youtube:hover{
+    font-size: 3.5rem;
+    transition: 0.2s;
+    color: red;
+}
+footer .container-fluid .row .col ul li #facebook:hover{
+    font-size: 3.5rem;
+    transition: 0.2s;
+    color: blue;
+}
+
+
+footer .container-fluid .row .col ul li  #whatsapp:hover {
+    font-size: 3.5rem;
+    transition: 0.2s;
+    color: rgb(41, 233, 41);
+}
+
+

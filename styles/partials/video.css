@@ -1,0 +1,15 @@
+.videos {
+    padding-bottom: 2rem;
+}
+
+.videos h1 {
+    color: white;
+    font-size: 3.7rem;
+    padding: 2rem;
+}
+
+.videos .container-fluid ul li {
+    list-style-type: none;
+    padding: 1rem;
+}
+

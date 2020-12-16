@@ -1,0 +1,94 @@
+.images-container {
+    width: 100vw;
+}
+
+.images-container .carousel-item img {
+    
+    width: 100vw;
+    margin-bottom:3rem ;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.full-image .parallax {
+    background-image: url("../../images/inicio/grupo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 30rem;
+}
+
+.diretor{
+    color: white;
+    padding-left: 0;
+}
+
+.diretor .container {
+    align-items: center;
+    
+}
+
+
+
+.diretor .self-image img {
+    
+    
+    padding-top: 4rem;
+}
+
+.diretor .container h1 {
+    padding-bottom: 2rem;
+}
+
+
+.diretor .container p {
+    text-align: justify;
+    
+}
+
+.diretor .container img {
+    padding-bottom: 5rem;
+    height: 50rem;
+    
+}
+
+
+.video {
+    color: white;
+}
+
+.video h1 {
+    padding-top: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.video .container video source {
+    outline: none;
+}
+
+.depoimentos {
+    color: white;
+    padding-top: 5rem;
+}
+
+
+
+.depoimentos .container-fluid .card {
+    margin: 1rem;
+}
+
+.depoimentos .container-fluid .card img {
+    width: 17.9rem;
+    height: 20rem;
+}
+
+.textinho {
+    color: white;
+    padding-top: 5rem;
+    width: 100vw;
+}
